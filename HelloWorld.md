@@ -2,7 +2,7 @@
 title: "HelloWorld"
 author: "kavya"
 date: "07/08/2020"
-output: html_document
+output: pdf_document
 ---
 ## This is a markdown file 
 ```{r setup, include=FALSE}
